@@ -1,0 +1,17 @@
+{
+  "name": "learn-starter",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "codemirror": "^5.58.1",
+    "next": "9.5.3",
+    "react": "16.13.1",
+    "react-codemirror2": "^7.2.1",
+    "react-dom": "16.13.1"
+  }
+}
